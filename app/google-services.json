@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983411179223",
+    "project_id": "aula-dmo",
+    "storage_bucket": "aula-dmo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983411179223:android:fc2cfefcc676cf9d7eba92",
+        "android_client_info": {
+          "package_name": "com.example.testefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7XTugV4zyKyAOyuNP3lcNDlIFql7GFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
